@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Antony 👋
+### Estudante e desenvolvedor
 
-<!--
-**Gabriel-zet/Gabriel-zet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**For-me**  
+- **Linguagens & Frameworks:** JavaScript · TypeScript · Node.js · Vue · React · Java(onloading)
+- **Bancos de dados:** MySQL · PostgreSQL · SQLite  
+- **Ferramentas & ORM:** Prisma · Express · Git
 
-Here are some ideas to get you started:
+**Projetos recentes**  
+| Projeto       | Descrição                            | Tecnologias                        |
+|---------------|--------------------------------------|-----------------------------------|
+| ReactCalc     | Calculadora de investimentos         | React · JavaScript                |
+| crud-api      | API CRUD com Prisma e Express        | TypeScript · Node.js · Prisma · MySQL |
+| Pokedex       | Consome API de Pokémons com Vue      | Vue · Axios                       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**O que estou fazendo**  
+🔭 Estudando Java 
+🌱 Em busca de oportunidades de estágio e inicio na area
+
+---
+
